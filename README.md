@@ -1,4 +1,4 @@
-# basicORM
+# Mapeamento Objeto-Relacional
 
 # Basic project about ORM with Springboot
  
