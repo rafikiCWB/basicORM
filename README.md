@@ -1,5 +1,9 @@
 # basicORM
 
-# Basic project about ORM com Springboot
+# Basic project about ORM with Springboot
  
- criei um projeto basico para treinas o mapeamento objeto-relacional, usei Spring Web, Spring Data Jpa and H2 Database
+Criei um projeto para treinar o mapeamento objeto-relacional. 
+Usei Spring Web, Spring Data JPA and H2 Database.
+
+#Next step
+Trocar o H2 Database pelo Postgresql e povoa-lo
